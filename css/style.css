@@ -211,6 +211,7 @@ select::placeholder {
 .Prefer-directly .Prefer-box {
   background: #ffffff;
   border-right: 1px solid #e1e1ee;
+  border-left: 1px solid #e1e1ee;
   padding: 32px 44px;
   text-align: center;
 }
@@ -324,7 +325,7 @@ ul.theme-list-v2 li a {
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .navbar-nav{
+  .navbar-nav {
     background-color: #ffffff;
   }
 }
@@ -334,5 +335,5 @@ ul.theme-list-v2 li a {
   }
   .Prefer-directly {
     padding-bottom: 40px;
-}
+  }
 }
